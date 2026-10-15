@@ -27,7 +27,7 @@ I'm a developer and computational physics researcher interested in building inte
 
 - 🤖 Exploring **LLMs, AI agents, and Retrieval-Augmented Generation (RAG)**
 - 🐍 Building backend applications and APIs with **Python and FastAPI**
-- ⚛️ Interested in **quantum information and open quantum systems**
+- ⚛️ Researcher in **quantum information and open quantum systems**
 - 📊 Working with numerical simulations, data analysis, and visualization
 - 📚 Interested in programming education and making complex topics easier to understand
 - 🚀 Always learning, building, experimenting, and sharing knowledge
@@ -84,7 +84,7 @@ My scientific interests include open quantum systems, quantum many-body dynamics
 - Lindblad master equations and quantum trajectories
 - Numerical simulation of quantum systems
 - Statistical analysis and time-series characterization
-- Scientific computing with Python and Julia
+- Boundary Time Crystals
 
 ---
 
