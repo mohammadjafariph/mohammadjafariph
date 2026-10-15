@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+LLMs+and+AI+agents;Developing+scientific+simulations;Connecting+AI%2C+code%2C+and+physics" alt="Animated introduction" />
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/mohammadjafariph">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
