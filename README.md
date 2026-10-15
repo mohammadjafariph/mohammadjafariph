@@ -146,16 +146,22 @@ Analyze data, run numerical experiments, and visualize results from computationa
 ---
 
 
-## 🤝 Let's Connect
-
-I'm interested in connecting with developers, researchers, and people building useful things with AI and scientific computing.
+## 🤝 Connect With Me
 
 <div align="center">
 
+<a href="mailto:mojafari@id.uff.br">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://www.linkedin.com/in/mohammad-jafari-056645279">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://scholar.google.com/citations?user=1kX8IzIAAAAJ&hl=en&authuser=1">
+  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+</a>
 <a href="https://github.com/mohammadjafariph">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<!-- Add LinkedIn, your website, or email below if you want to share them publicly. -->
 
 </div>
 
@@ -163,8 +169,6 @@ I'm interested in connecting with developers, researchers, and people building u
 
 <div align="center">
 
-### 💡 Build · Learn · Experiment · Repeat
-
-*Thanks for visiting my profile! Feel free to explore my repositories.*
+*Feel free to connect with me to discuss AI, scientific computing, quantum information, or collaboration opportunities!*
 
 </div>
