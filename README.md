@@ -102,7 +102,7 @@ Build applications that retrieve relevant information and generate context-aware
 
 **Tools:** Python · FastAPI · LangChain · Vector Search
 
-[Explore my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+[Explore my repositories →](https://github.com/mohammadjafariph?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -113,7 +113,7 @@ Develop REST APIs, database-backed applications, and practical software projects
 
 **Tools:** Python · FastAPI · SQLite · Git
 
-[Explore my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+[Explore my repositories →](https://github.com/mohammadjafariph?tab=repositories)
 
 </td>
 </tr>
@@ -126,7 +126,7 @@ Explore numerical models of open quantum systems, quantum dynamics, and entangle
 
 **Tools:** Julia · Python · NumPy · SciPy
 
-[Explore my repositories →](https://github.com/YOUR_USERNAME?tab=repositories)
+[Explore my repositories →](https://github.com/mohammadjafariph?tab=repositories)
 
 </td>
 <td width="50%" valign="top">
@@ -145,23 +145,6 @@ Analyze data, run numerical experiments, and visualize results from computationa
 
 ---
 
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -169,7 +152,7 @@ I'm interested in connecting with developers, researchers, and people building u
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mohammadjafariph">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <!-- Add LinkedIn, your website, or email below if you want to share them publicly. -->
